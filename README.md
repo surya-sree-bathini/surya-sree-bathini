@@ -1,6 +1,5 @@
-- Hi, I’m @surya-sree-bathini
+- Hi, I’m Surya Sree Bathini
 - I’m interested in AI/ML and PostgreSQL
-- I’m looking to collaborate on ML, GenAI projects
-- How to reach me @suryasreerm@gmail.com
+- How to reach me suryasreerm@gmail.com
 - Pronouns: she/her
 - Fun fact: Am sun god you dull creature.

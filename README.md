@@ -1,5 +1,6 @@
 - Hi, I’m Surya Sree Bathini
 - I’m interested in AI/ML and PostgreSQL
+- Searching for open source projects to contribute.
 - How to reach me suryasreerm@gmail.com
 - Pronouns: she/her
 - Fun fact: Am sun god you dull creature.
